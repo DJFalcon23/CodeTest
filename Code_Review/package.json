@@ -1,0 +1,16 @@
+{
+  "name": "smartlogic_codetest",
+  "version": "1.0.1",
+  "description": "My attempt at SmartLogics Code Test for their apprentice program.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "CodeTest",
+    "Job",
+    "Smartlogic"
+  ],
+  "author": "Derek J. Fields Jr.",
+  "license": "ISC"
+}
